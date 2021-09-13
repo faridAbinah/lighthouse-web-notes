@@ -20,4 +20,4 @@ All this script does is loop through the process.argv array and prints the index
 Now, to run this type the following command. Just make sure you are in the directory where the "processargv.js" file is saved.
 
 $ node processargv.js tom jack 43
-Here we are passing three arguments to the "processargv.js" program. You will see that "tom" will be stored at 2nd index while "jack" and "43" will be stored at 3rd and 4th indexes, respectively. The output should look something like this:
+Here we are passing three arguments to the "processargv.js" program. You will see that "tom" will be stored at 2nd index while "jack" and "43" will be stored at 3rd and 4th indexes, respectively. 
